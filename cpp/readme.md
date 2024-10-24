@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para a pasta de conteúdos relacionados com C++ no repositório **recursos_comuns**:
-
----
-
 # Conteúdos Relacionados com C++
 
 Esta pasta contém materiais e recursos úteis para o desenvolvimento em **C++**. Ela foi criada com o objetivo de centralizar documentação, ferramentas, tutoriais e exemplos práticos para ajudar estudantes e desenvolvedores a trabalhar de forma mais eficiente com a linguagem.
