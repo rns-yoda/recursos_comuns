@@ -1,4 +1,3 @@
-# Operadores
 Em C++, os **operadores** são símbolos usados para realizar operações sobre variáveis e valores. Eles podem ser classificados em várias categorias com base na funcionalidade que fornecem. Abaixo estão as principais categorias de operadores em C++:
 
 ### 1. **Operadores Aritméticos**
@@ -127,3 +126,6 @@ int main() {
 
 ### Resumo:
 Os operadores em C++ são ferramentas poderosas que permitem manipular variáveis, realizar operações matemáticas, comparar valores e trabalhar com bits, tornando o desenvolvimento mais flexível e expressivo.
+
+### Nota
+Para mais detalhes sobre operadores em C++, consulte a documentação oficial em [cppreference.com](https://en.cppreference.com/w/cpp/language/types). 
