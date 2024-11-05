@@ -1,6 +1,6 @@
 # Dicionário de dados
 ### Referência: 
-Sistema de biblioteca digital com suas principais entidades e relacionamentos.
+[Sistema de biblioteca digital](https://github.com/rns-yoda/analise-sistemas/blob/main/aulas/anexos/diagramaclasse_biblioteca.md) com suas principais entidades e relacionamentos.
 
 ## Implementando o DD. no sistema de referência
 Esse dicionário inclui detalhes adicionais sobre os atributos, incluindo tamanhos e restrições, além de uma breve descrição dos métodos.
