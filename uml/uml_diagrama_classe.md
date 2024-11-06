@@ -27,7 +27,7 @@
 +-----------------+
 | - nome: String  |  ← Atributos
 | - idade: int    |
-| - cpf: String   |
+| - bi: String   |
 +-----------------+
 | + getNome()     |  ← Métodos
 | + setNome()     |
