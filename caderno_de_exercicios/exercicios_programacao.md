@@ -1,114 +1,112 @@
-# Programa da Disciplina de Fundamentos de Programação
+# Caderno de Exercícios de Programação 2024/25
+<br>
 
-A disciplina de **Fundamentos de Programação** oferece uma introdução aos conceitos essenciais da programação e desenvolvimento de software. Os alunos aprendem o que é programação, o funcionamento de computadores, e as diferentes linguagens de programação. O curso ensina a resolução de problemas através de algoritmos, fluxogramas e pseudocódigo, além de explorar a estrutura e sintaxe de programas, variáveis, tipos de dados, operadores, e controle de fluxo. Ao final, são apresentados diferentes paradigmas de programação, como a programação orientada a objetos. O objetivo é capacitar os alunos a desenvolverem soluções computacionais básicas e construir uma base sólida para projetos de software.
----
+## Grupo 1: Exercícios Básicos
 
-## Objetivo do Curso
-Proporcionar uma compreensão dos conceitos fundamentais relacionados à programação, incluindo algoritmos, abstração procedimental e abstração de dados, além de explorar a programação como um processo de construção de abstrações e os diferentes paradigmas de programação. Ao final desta unidade curricular, os alunos deverão ter domínio dos conceitos abordados e serem capazes de desenvolver programas utilizando uma linguagem algorítmica.
+1. **Calculadora de Média**
+   - Objetivo: Criar um programa que leia 3 notas de um aluno e calcule a média
+   - Conceitos: Variáveis, tipos de dados (real), operadores aritméticos
+   - Descrição: O programa deve solicitar 3 notas, calcular a média aritmética e exibir o resultado
 
----
+2. **Calculadora de Desconto**
+   - Objetivo: Calcular desconto em um produto
+   - Conceitos: Variáveis, operadores aritméticos
+   - Descrição: Ler valor do produto e percentual de desconto, calcular valor final
 
-## Índice
+3. **Calculadora de Idade em Dias**
+   - Objetivo: Converter idade em anos para dias
+   - Conceitos: Variáveis, operadores aritméticos
+   - Descrição: Ler idade em anos e converter para dias (considerando ano com 365 dias)
 
-1. [Introdução à Programação e Fundamentos](#1-introdução-à-programação-e-fundamentos)
-2. [Resolução de Problemas com Programação](#2-resolução-de-problemas-com-programação)
-3. [Estruturação de Programas e Sintaxe](#3-estruturação-de-programas-e-sintaxe)
-4. [Variáveis, Tipos de Dados e Operadores](#4-variáveis-tipos-de-dados-e-operadores)
-5. [Entrada e Saída de Dados](#5-entrada-e-saída-de-dados)
-6. [Controle de Fluxo](#6-controle-de-fluxo)
-7. [Métodos](#7-métodos)
-8. [Introdução a Estruturas de Dados](#8-introdução-a-estruturas-de-dados)
-9. [Paradigmas de Programação](#9-paradigmas-de-programação)
-10. [Programação no Contexto de Projetos](#10-programação-no-contexto-de-projetos)
+4. **Calculadora de Consumo de Combustível**
+   - Objetivo: Calcular consumo médio de combustível
+   - Conceitos: Variáveis, operadores aritméticos
+   - Descrição: Ler distância percorrida e litros consumidos, calcular consumo médio (km/l)
 
----
+5. **Conversor de Temperatura**
+   - Objetivo: Converter temperatura de Celsius para Fahrenheit
+   - Conceitos: Variáveis, operadores aritméticos, fórmulas matemáticas
+   - Descrição: Ler uma temperatura em Celsius e converter para Fahrenheit usando a fórmula (C * 9/5) + 32
 
-## 1. Introdução à Programação e Fundamentos
-Introdução aos conceitos fundamentais da programação e ao funcionamento básico dos computadores e linguagens de programação.
+6. **Conversor de Moedas**
+   - Objetivo: Converter reais para dólares
+   - Conceitos: Variáveis, operadores aritméticos
+   - Descrição: Ler valor em reais e cotação do dólar, calcular valor equivalente em dólares
 
-- **1.1 Conceito de Programação**: Definição e importância da programação no desenvolvimento de software.
-- **1.2 Computadores e Programação**: Explicação sobre o funcionamento básico dos computadores no contexto da programação.
-- **1.3 Linguagens de Programação: Definição e Classificação**: Classificação das linguagens de programação e suas aplicações.
-- **1.4 Conceitos básicos: Algoritmo, Programa e Abstração**: Noções iniciais sobre algoritmos, programas e o conceito de abstração.
+## Grupo 2: Exercícios com Estruturas Condicionais
 
-## 2. Resolução de Problemas com Programação
-Passos e estratégias para a resolução de problemas usando a lógica de programação.
+7. **Calculadora de IMC**
+   - Objetivo: Calcular o Índice de Massa Corporal
+   - Conceitos: Variáveis, operadores aritméticos, estruturas condicionais
+   - Descrição: Ler peso e altura, calcular o IMC e classificar em categorias
 
-- **2.1 Interpretação do Problema**: Análise e compreensão do problema a ser resolvido.
-- **2.2 Solução do Problema com Programação**: Aplicação de métodos de programação para resolver problemas.
-- **2.3 Algoritmia e Programação: conceitos/definições**: Definição e importância de algoritmos na programação.
-  - **2.3.1 Pseudocódigo**: Uso de pseudocódigo para descrever algoritmos.
-  - **2.3.2 Fluxogramas**: Representação visual de algoritmos através de fluxogramas.
-  - **2.3.3 Codificação (implementação)**: Transposição do algoritmo para uma linguagem de programação.
+8. **Calculadora de Troco**
+   - Objetivo: Calcular troco de uma compra
+   - Conceitos: Variáveis, operadores aritméticos, estruturas condicionais
+   - Descrição: Ler valor da compra e valor pago, calcular troco ou informar se falta dinheiro
 
-## 3. Estruturação de Programas e Sintaxe
-Exploração da estrutura básica de programas, introduzindo a linguagem Portugol.
+9. **Calculadora de Área**
+   - Objetivo: Calcular área de diferentes formas geométricas
+   - Conceitos: Estruturas condicionais, operadores aritméticos
+   - Descrição: Oferecer menu com opções (quadrado, retângulo, triângulo) e calcular área da forma escolhida
 
-- **3.1 Introdução ao Portugol (Portugol Studio)**: Visão geral do Portugol e sua aplicação em lógica de programação.
-- **3.2 Estrutura de um Programa**: Estrutura básica de um programa em Portugol.
-- **3.3 Introdução à Sintaxe da Linguagem Algorítmica**: Regras básicas da linguagem de programação.
-- **3.4 Sintaxe e Semântica**: Diferenças entre sintaxe e semântica em programação.
-- **3.5 Palavras Reservadas, Símbolos, Identificadores e Valores**: Principais elementos sintáticos de um programa.
+10. **Verificador de Número Par/Ímpar**
+    - Objetivo: Determinar se um número é par ou ímpar
+    - Conceitos: Estruturas condicionais, operador módulo (%)
+    - Descrição: Ler um número e usar o operador módulo para verificar se é par ou ímpar
 
-## 4. Variáveis, Tipos de Dados e Operadores
-Noções de variáveis, tipos de dados e operadores.
+11. **Verificador de Vogal**
+    - Objetivo: Identificar se uma letra é vogal ou consoante
+    - Conceitos: Estruturas condicionais, tipos de dados (caractere)
+    - Descrição: Ler uma letra e verificar se é vogal ou consoante
 
-- **4.1 Noção de Variável**: Conceito e uso de variáveis na programação.
-- **4.2 Tipos de dados básicos**: Principais tipos de dados e suas aplicações.
-- **4.3 Atribuição de Valores**: Como atribuir valores a variáveis.
-- **4.4 Conversão entre Tipos de Dados**: Conversão de dados de um tipo para outro.
-- **4.5 Operadores e Ordem de Avaliação**: Operadores matemáticos e lógicos e sua ordem de execução.
+12. **Maior e Menor**
+    - Objetivo: Encontrar o maior e menor entre três números
+    - Conceitos: Estruturas condicionais, operadores relacionais
+    - Descrição: Ler três números e determinar qual é o maior e qual é o menor
 
-## 5. Entrada e Saída de Dados
-Mecanismos de comunicação com o usuário.
+13. **Verificador de Aprovação**
+    - Objetivo: Determinar se um aluno foi aprovado ou reprovado
+    - Conceitos: Estruturas condicionais, operadores lógicos
+    - Descrição: Ler nota e frequência, aprovar se nota >= 7 E frequência >= 75%
 
-- **5.1 Comunicação Básica com o Utilizador**: Introdução à comunicação básica em programas.
-- **5.2 Entrada e Saída de Dados em Programas**: Métodos para entrada e saída de dados.
+14. **Verificador de Divisibilidade**
+    - Objetivo: Verificar se um número é divisível por outro
+    - Conceitos: Operador módulo, estruturas condicionais
+    - Descrição: Ler dois números e verificar se o primeiro é divisível pelo segundo
 
-## 6. Controle de Fluxo
-Estruturas para controle de decisões e repetições no fluxo do programa.
+15. **Verificador de Números**
+    - Objetivo: Classificar um número como positivo, negativo ou zero
+    - Conceitos: Estruturas condicionais, operadores relacionais
+    - Descrição: Ler um número e informar se é positivo, negativo ou zero
 
-- **6.1 Estruturas condicionais**: Implementação de condições em programas.
-- **6.2 Estruturas de Repetição**: Implementação de laços de repetição.
+## Grupo 3: Exercícios com Estruturas de Repetição
 
-## 7. Métodos
-Definição e uso de métodos para modularizar o código.
+16. **Contador Simples**
+    - Objetivo: Contar de 1 até um número informado pelo usuário
+    - Conceitos: Estrutura de repetição (para)
+    - Descrição: Solicitar um número e exibir a contagem até ele
 
-- **7.1 Sem retorno**: Métodos que não retornam valor.
-- **7.2 Com retorno**: Métodos que retornam valor.
+17. **Tabuada**
+    - Objetivo: Exibir a tabuada de um número
+    - Conceitos: Estrutura de repetição, operadores aritméticos
+    - Descrição: Ler um número e mostrar sua tabuada de 1 a 10
 
-## 8. Introdução a Estruturas de Dados
-Conceitos iniciais de estruturas de dados.
+18. **Soma de Números**
+    - Objetivo: Somar números até que zero seja digitado
+    - Conceitos: Estrutura de repetição (enquanto), acumuladores
+    - Descrição: Ler números continuamente até que zero seja digitado, então mostrar a soma
 
-- **8.1 Vector**: Utilização de vetores.
-- **8.2 Matriz**: Utilização de matrizes.
+19. **Contador de Pares**
+    - Objetivo: Contar números pares em um intervalo
+    - Conceitos: Estrutura de repetição, operador módulo
+    - Descrição: Ler início e fim do intervalo, contar quantos números pares existem entre eles
 
-## 9. Paradigmas de Programação
-Introdução aos diferentes paradigmas de programação e suas aplicações.
+20. **Contador Regressivo**
+    - Objetivo: Fazer contagem regressiva a partir de um número
+    - Conceitos: Estrutura de repetição
+    - Descrição: Ler um número e fazer contagem regressiva até zero
 
-- **9.1 Modelos de Programação**: Abordagem dos principais modelos de programação.
-- **9.2 Comparação dos Paradigmas**: Comparação entre os diferentes paradigmas.
-
-## 10. Programação no Contexto de Projetos
-Introdução à aplicação da programação em projetos de desenvolvimento de software.
-
-- **10.1 A Programação em Projetos de Desenvolvimento de Software**: Aplicação de conhecimentos de programação em projetos.
-- **10.2 Introdução às linguagens de programação**: Visão geral das principais linguagens de programação e seus contextos de uso.
-
----
-
-## Suporte
-Este curso utiliza as seguintes ferramentas:
-- **Portugol (Portugol Studio)**: Ambiente de desenvolvimento para ensino de lógica de programação.
-<!-- - **C/C++**: Linguagens de programação usadas para introduzir conceitos de programação estruturada. -->
-
----
-
-
-## Referências [em actualização]
-- Ascencio, A. F. G., & Campos, E. A. V. (2012). *Fundamentos da programação de computadores: Algoritmos, Pascal, C, C++ e Java* (3ª ed.). Pearson Universidades.
-- Barry, Paul, Griffiths, David, USE A CABEÇA! PROGRAMAÇAO, Editora: ALTA BOOKS, 1.ª Edição, 2010
-- Concilio, Ricardo, Furlan, Marco A., Gomes, Marcelo, Soares, Marcio, ALGORITMOS E LOGICA DE PROGRAMAÇAO, Editora: CENGAGE, 2.ª Edição, 2011 
-- Fertig, Cristina, Medina, Marco, ALGORITMOS E PROGRAMAÇAO - TEORIA E PRATICA, Editora: NOVATEC, Edição: 1.ª, 2005 
-- Forbellone, Andre Luiz, LOGICA DE PROGRAMAÇAO, Editora: PRENTICE HALL BRASIL, Edição: 3.ª, 2005 
-
+<br></br>
+<hr>
+<h3>Bom apetite!</h3> 
