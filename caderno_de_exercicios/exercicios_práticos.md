@@ -5,12 +5,13 @@ O diretor de uma escola decidiu informatizar o controle de informações sobre o
 ### Requisitos:  
 1. Criar um menu com as seguintes funcionalidades:    
    - **Cadastrar alunos:** Permitir que o usuário insira os dados de um aluno (número de matrícula, nome completo, curso e nota final).   
-   - **Listar alunos cadastrados:** Exibir os dados de todos os alunos cadastrados no sistema.   
+   - **Listar alunos cadastrados:** Exibir os dados de todos os alunos cadastrados no sistema.
+   - **Sair do programa.**  
 <!--   
    - **Pesquisar aluno por matrícula:** Permitir buscar e exibir os dados de um aluno com base no número de matrícula informado.   
    - **Editar dados de um aluno:** Permitir modificar os dados de um aluno previamente cadastrado.   
    - **Excluir aluno:** Remover um aluno do sistema com base no número de matrícula. 
 -->
-   - **Sair do programa.**   
+    
 
-   
+   ![image](https://github.com/user-attachments/assets/ecbbe603-f879-409e-a58b-4686a88269cb)
